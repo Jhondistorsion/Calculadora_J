@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Jonatan DAM2/PMDM/Calculadora_j/app/src/main/res/drawable/redondear.xml" value="0.2703125" />
+        <entry key="..\:/Jonatan DAM2/PMDM/Calculadora_j/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
         <entry key="..\:/Jonatan DAM2/PMDM/Calculadora_j/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
@@ -12,5 +14,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>
